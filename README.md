@@ -1,1 +1,1 @@
-Sistema de login simples com PHP com POO.
+Sistema de login simples com PHP com POO e PDO.
